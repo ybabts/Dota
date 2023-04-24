@@ -1,0 +1,6 @@
+export const Skillshots: Record<string, boolean> = {
+  "mirana_arrow": true,
+  "pudge_meat_hook": true,
+  "rattletrap_hookshot": true,
+  "invoker_sun_strike": true
+}
