@@ -1,11 +1,3 @@
-
-
-
-
-
-
-
-
 export enum Hero {
   AntiMage = 1,
   Axe = 2,
