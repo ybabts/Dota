@@ -1,4 +1,4 @@
-export * as data from './data/mod.ts';
-export * as enums from './enums/mod.ts';
-export * as api from './api/mod.ts';
-export * as types from './types/mod.ts';
+export * from './data/mod.ts';
+export * from './enums/mod.ts';
+export * from './api/mod.ts';
+export * from './types/mod.ts';

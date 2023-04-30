@@ -1,4 +1,4 @@
-export const ItemColors = {
+export const ItemColorsData = {
   "rare": "#1A87F9",
   "artifact": "#E29B01",
   "secret_shop": "#FFFFFF",
