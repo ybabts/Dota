@@ -3,10 +3,13 @@ import { CutStart, ValueObjectKeyUnion } from "../util/mod.ts";
 
 type CutStringsInUnion<U> = U extends string ? CutStart<U, 14> : never;
 
-export type HeroName = ValueObjectKeyUnion<typeof Heroes, 'name'>;
-export type HeroID = ValueObjectKeyUnion<typeof Heroes, 'id'>;
-export type HeroShortName = CutStringsInUnion<HeroName>
-export type HeroLocalizedName = ValueObjectKeyUnion<typeof Heroes, 'localized_name'>
+export type HeroName = ValueObjectKeyUnion<typeof Heroes, "name">;
+export type HeroID = ValueObjectKeyUnion<typeof Heroes, "id">;
+export type HeroShortName = CutStringsInUnion<HeroName>;
+export type HeroLocalizedName = ValueObjectKeyUnion<
+  typeof Heroes,
+  "localized_name"
+>;
 export type PrimaryAttr = "str" | "agi" | "int" | "all";
 export type AttackType = "Melee" | "Ranged";
 export type Role =
@@ -19,3 +22,9 @@ export type Role =
   | "Support"
   | "Pusher"
   | "Jungler";
+export enum PrimaryAttribute {
+  Strength = 0,
+  Agility = 1,
+  Intelligence = 2,
+  Universal = 3,
+}
