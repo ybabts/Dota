@@ -1,6 +1,6 @@
 import { StatusCodes } from "../deps.ts";
 import { CountryCode } from "../mod.ts";
-import { Division } from "../types/tourney.ts";
+import { Division } from "../mod.ts";
 
 /**
  * Fetches the leaderboard for a specific division.
