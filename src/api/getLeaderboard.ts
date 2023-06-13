@@ -1,3 +1,4 @@
+import { StatusCodes } from "../deps.ts";
 import { CountryCode } from "../mod.ts";
 import { Division } from "../types/tourney.ts";
 
@@ -13,6 +14,7 @@ export async function getLeaderboard(division: Division = "americas") {
   url.searchParams.set("division", division);
   url.searchParams.set("leaderboard", "0");
   const req = await fetch(url);
+  if (req.status !== StatusCodes.OK) throw new Error(await req.text());
   const res: getLeaderboard_Result = await req.json().catch((e) => {
     throw e;
   });
