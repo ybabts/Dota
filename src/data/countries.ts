@@ -4,1502 +4,1502 @@ export const Countries: Record<string, {
 }> = {
   "AW": {
     "name": {
-      "common": "Aruba"
+      "common": "Aruba",
     },
-    "cca2": "AW"
+    "cca2": "AW",
   },
   "AF": {
     "name": {
-      "common": "Afghanistan"
+      "common": "Afghanistan",
     },
-    "cca2": "AF"
+    "cca2": "AF",
   },
   "AO": {
     "name": {
-      "common": "Angola"
+      "common": "Angola",
     },
-    "cca2": "AO"
+    "cca2": "AO",
   },
   "AI": {
     "name": {
-      "common": "Anguilla"
+      "common": "Anguilla",
     },
-    "cca2": "AI"
+    "cca2": "AI",
   },
   "AX": {
     "name": {
-      "common": "Åland Islands"
+      "common": "Åland Islands",
     },
-    "cca2": "AX"
+    "cca2": "AX",
   },
   "AL": {
     "name": {
-      "common": "Albania"
+      "common": "Albania",
     },
-    "cca2": "AL"
+    "cca2": "AL",
   },
   "AD": {
     "name": {
-      "common": "Andorra"
+      "common": "Andorra",
     },
-    "cca2": "AD"
+    "cca2": "AD",
   },
   "AE": {
     "name": {
-      "common": "United Arab Emirates"
+      "common": "United Arab Emirates",
     },
-    "cca2": "AE"
+    "cca2": "AE",
   },
   "AR": {
     "name": {
-      "common": "Argentina"
+      "common": "Argentina",
     },
-    "cca2": "AR"
+    "cca2": "AR",
   },
   "AM": {
     "name": {
-      "common": "Armenia"
+      "common": "Armenia",
     },
-    "cca2": "AM"
+    "cca2": "AM",
   },
   "AS": {
     "name": {
-      "common": "American Samoa"
+      "common": "American Samoa",
     },
-    "cca2": "AS"
+    "cca2": "AS",
   },
   "AQ": {
     "name": {
-      "common": "Antarctica"
+      "common": "Antarctica",
     },
-    "cca2": "AQ"
+    "cca2": "AQ",
   },
   "TF": {
     "name": {
-      "common": "French Southern and Antarctic Lands"
+      "common": "French Southern and Antarctic Lands",
     },
-    "cca2": "TF"
+    "cca2": "TF",
   },
   "AG": {
     "name": {
-      "common": "Antigua and Barbuda"
+      "common": "Antigua and Barbuda",
     },
-    "cca2": "AG"
+    "cca2": "AG",
   },
   "AU": {
     "name": {
-      "common": "Australia"
+      "common": "Australia",
     },
-    "cca2": "AU"
+    "cca2": "AU",
   },
   "AT": {
     "name": {
-      "common": "Austria"
+      "common": "Austria",
     },
-    "cca2": "AT"
+    "cca2": "AT",
   },
   "AZ": {
     "name": {
-      "common": "Azerbaijan"
+      "common": "Azerbaijan",
     },
-    "cca2": "AZ"
+    "cca2": "AZ",
   },
   "BI": {
     "name": {
-      "common": "Burundi"
+      "common": "Burundi",
     },
-    "cca2": "BI"
+    "cca2": "BI",
   },
   "BE": {
     "name": {
-      "common": "Belgium"
+      "common": "Belgium",
     },
-    "cca2": "BE"
+    "cca2": "BE",
   },
   "BJ": {
     "name": {
-      "common": "Benin"
+      "common": "Benin",
     },
-    "cca2": "BJ"
+    "cca2": "BJ",
   },
   "BF": {
     "name": {
-      "common": "Burkina Faso"
+      "common": "Burkina Faso",
     },
-    "cca2": "BF"
+    "cca2": "BF",
   },
   "BD": {
     "name": {
-      "common": "Bangladesh"
+      "common": "Bangladesh",
     },
-    "cca2": "BD"
+    "cca2": "BD",
   },
   "BG": {
     "name": {
-      "common": "Bulgaria"
+      "common": "Bulgaria",
     },
-    "cca2": "BG"
+    "cca2": "BG",
   },
   "BH": {
     "name": {
-      "common": "Bahrain"
+      "common": "Bahrain",
     },
-    "cca2": "BH"
+    "cca2": "BH",
   },
   "BS": {
     "name": {
-      "common": "Bahamas"
+      "common": "Bahamas",
     },
-    "cca2": "BS"
+    "cca2": "BS",
   },
   "BA": {
     "name": {
-      "common": "Bosnia and Herzegovina"
+      "common": "Bosnia and Herzegovina",
     },
-    "cca2": "BA"
+    "cca2": "BA",
   },
   "BL": {
     "name": {
-      "common": "Saint Barthélemy"
+      "common": "Saint Barthélemy",
     },
-    "cca2": "BL"
+    "cca2": "BL",
   },
   "SH": {
     "name": {
-      "common": "Saint Helena, Ascension and Tristan da Cunha"
+      "common": "Saint Helena, Ascension and Tristan da Cunha",
     },
-    "cca2": "SH"
+    "cca2": "SH",
   },
   "BY": {
     "name": {
-      "common": "Belarus"
+      "common": "Belarus",
     },
-    "cca2": "BY"
+    "cca2": "BY",
   },
   "BZ": {
     "name": {
-      "common": "Belize"
+      "common": "Belize",
     },
-    "cca2": "BZ"
+    "cca2": "BZ",
   },
   "BM": {
     "name": {
-      "common": "Bermuda"
+      "common": "Bermuda",
     },
-    "cca2": "BM"
+    "cca2": "BM",
   },
   "BO": {
     "name": {
-      "common": "Bolivia"
+      "common": "Bolivia",
     },
-    "cca2": "BO"
+    "cca2": "BO",
   },
   "BQ": {
     "name": {
-      "common": "Caribbean Netherlands"
+      "common": "Caribbean Netherlands",
     },
-    "cca2": "BQ"
+    "cca2": "BQ",
   },
   "BR": {
     "name": {
-      "common": "Brazil"
+      "common": "Brazil",
     },
-    "cca2": "BR"
+    "cca2": "BR",
   },
   "BB": {
     "name": {
-      "common": "Barbados"
+      "common": "Barbados",
     },
-    "cca2": "BB"
+    "cca2": "BB",
   },
   "BN": {
     "name": {
-      "common": "Brunei"
+      "common": "Brunei",
     },
-    "cca2": "BN"
+    "cca2": "BN",
   },
   "BT": {
     "name": {
-      "common": "Bhutan"
+      "common": "Bhutan",
     },
-    "cca2": "BT"
+    "cca2": "BT",
   },
   "BV": {
     "name": {
-      "common": "Bouvet Island"
+      "common": "Bouvet Island",
     },
-    "cca2": "BV"
+    "cca2": "BV",
   },
   "BW": {
     "name": {
-      "common": "Botswana"
+      "common": "Botswana",
     },
-    "cca2": "BW"
+    "cca2": "BW",
   },
   "CF": {
     "name": {
-      "common": "Central African Republic"
+      "common": "Central African Republic",
     },
-    "cca2": "CF"
+    "cca2": "CF",
   },
   "CA": {
     "name": {
-      "common": "Canada"
+      "common": "Canada",
     },
-    "cca2": "CA"
+    "cca2": "CA",
   },
   "CC": {
     "name": {
-      "common": "Cocos (Keeling) Islands"
+      "common": "Cocos (Keeling) Islands",
     },
-    "cca2": "CC"
+    "cca2": "CC",
   },
   "CH": {
     "name": {
-      "common": "Switzerland"
+      "common": "Switzerland",
     },
-    "cca2": "CH"
+    "cca2": "CH",
   },
   "CL": {
     "name": {
-      "common": "Chile"
+      "common": "Chile",
     },
-    "cca2": "CL"
+    "cca2": "CL",
   },
   "CN": {
     "name": {
-      "common": "China"
+      "common": "China",
     },
-    "cca2": "CN"
+    "cca2": "CN",
   },
   "CI": {
     "name": {
-      "common": "Ivory Coast"
+      "common": "Ivory Coast",
     },
-    "cca2": "CI"
+    "cca2": "CI",
   },
   "CM": {
     "name": {
-      "common": "Cameroon"
+      "common": "Cameroon",
     },
-    "cca2": "CM"
+    "cca2": "CM",
   },
   "CD": {
     "name": {
-      "common": "DR Congo"
+      "common": "DR Congo",
     },
-    "cca2": "CD"
+    "cca2": "CD",
   },
   "CG": {
     "name": {
-      "common": "Republic of the Congo"
+      "common": "Republic of the Congo",
     },
-    "cca2": "CG"
+    "cca2": "CG",
   },
   "CK": {
     "name": {
-      "common": "Cook Islands"
+      "common": "Cook Islands",
     },
-    "cca2": "CK"
+    "cca2": "CK",
   },
   "CO": {
     "name": {
-      "common": "Colombia"
+      "common": "Colombia",
     },
-    "cca2": "CO"
+    "cca2": "CO",
   },
   "KM": {
     "name": {
-      "common": "Comoros"
+      "common": "Comoros",
     },
-    "cca2": "KM"
+    "cca2": "KM",
   },
   "CV": {
     "name": {
-      "common": "Cape Verde"
+      "common": "Cape Verde",
     },
-    "cca2": "CV"
+    "cca2": "CV",
   },
   "CR": {
     "name": {
-      "common": "Costa Rica"
+      "common": "Costa Rica",
     },
-    "cca2": "CR"
+    "cca2": "CR",
   },
   "CU": {
     "name": {
-      "common": "Cuba"
+      "common": "Cuba",
     },
-    "cca2": "CU"
+    "cca2": "CU",
   },
   "CW": {
     "name": {
-      "common": "Curaçao"
+      "common": "Curaçao",
     },
-    "cca2": "CW"
+    "cca2": "CW",
   },
   "CX": {
     "name": {
-      "common": "Christmas Island"
+      "common": "Christmas Island",
     },
-    "cca2": "CX"
+    "cca2": "CX",
   },
   "KY": {
     "name": {
-      "common": "Cayman Islands"
+      "common": "Cayman Islands",
     },
-    "cca2": "KY"
+    "cca2": "KY",
   },
   "CY": {
     "name": {
-      "common": "Cyprus"
+      "common": "Cyprus",
     },
-    "cca2": "CY"
+    "cca2": "CY",
   },
   "CZ": {
     "name": {
-      "common": "Czechia"
+      "common": "Czechia",
     },
-    "cca2": "CZ"
+    "cca2": "CZ",
   },
   "DE": {
     "name": {
-      "common": "Germany"
+      "common": "Germany",
     },
-    "cca2": "DE"
+    "cca2": "DE",
   },
   "DJ": {
     "name": {
-      "common": "Djibouti"
+      "common": "Djibouti",
     },
-    "cca2": "DJ"
+    "cca2": "DJ",
   },
   "DM": {
     "name": {
-      "common": "Dominica"
+      "common": "Dominica",
     },
-    "cca2": "DM"
+    "cca2": "DM",
   },
   "DK": {
     "name": {
-      "common": "Denmark"
+      "common": "Denmark",
     },
-    "cca2": "DK"
+    "cca2": "DK",
   },
   "DO": {
     "name": {
-      "common": "Dominican Republic"
+      "common": "Dominican Republic",
     },
-    "cca2": "DO"
+    "cca2": "DO",
   },
   "DZ": {
     "name": {
-      "common": "Algeria"
+      "common": "Algeria",
     },
-    "cca2": "DZ"
+    "cca2": "DZ",
   },
   "EC": {
     "name": {
-      "common": "Ecuador"
+      "common": "Ecuador",
     },
-    "cca2": "EC"
+    "cca2": "EC",
   },
   "EG": {
     "name": {
-      "common": "Egypt"
+      "common": "Egypt",
     },
-    "cca2": "EG"
+    "cca2": "EG",
   },
   "ER": {
     "name": {
-      "common": "Eritrea"
+      "common": "Eritrea",
     },
-    "cca2": "ER"
+    "cca2": "ER",
   },
   "EH": {
     "name": {
-      "common": "Western Sahara"
+      "common": "Western Sahara",
     },
-    "cca2": "EH"
+    "cca2": "EH",
   },
   "ES": {
     "name": {
-      "common": "Spain"
+      "common": "Spain",
     },
-    "cca2": "ES"
+    "cca2": "ES",
   },
   "EE": {
     "name": {
-      "common": "Estonia"
+      "common": "Estonia",
     },
-    "cca2": "EE"
+    "cca2": "EE",
   },
   "ET": {
     "name": {
-      "common": "Ethiopia"
+      "common": "Ethiopia",
     },
-    "cca2": "ET"
+    "cca2": "ET",
   },
   "FI": {
     "name": {
-      "common": "Finland"
+      "common": "Finland",
     },
-    "cca2": "FI"
+    "cca2": "FI",
   },
   "FJ": {
     "name": {
-      "common": "Fiji"
+      "common": "Fiji",
     },
-    "cca2": "FJ"
+    "cca2": "FJ",
   },
   "FK": {
     "name": {
-      "common": "Falkland Islands"
+      "common": "Falkland Islands",
     },
-    "cca2": "FK"
+    "cca2": "FK",
   },
   "FR": {
     "name": {
-      "common": "France"
+      "common": "France",
     },
-    "cca2": "FR"
+    "cca2": "FR",
   },
   "FO": {
     "name": {
-      "common": "Faroe Islands"
+      "common": "Faroe Islands",
     },
-    "cca2": "FO"
+    "cca2": "FO",
   },
   "FM": {
     "name": {
-      "common": "Micronesia"
+      "common": "Micronesia",
     },
-    "cca2": "FM"
+    "cca2": "FM",
   },
   "GA": {
     "name": {
-      "common": "Gabon"
+      "common": "Gabon",
     },
-    "cca2": "GA"
+    "cca2": "GA",
   },
   "GB": {
     "name": {
-      "common": "United Kingdom"
+      "common": "United Kingdom",
     },
-    "cca2": "GB"
+    "cca2": "GB",
   },
   "GE": {
     "name": {
-      "common": "Georgia"
+      "common": "Georgia",
     },
-    "cca2": "GE"
+    "cca2": "GE",
   },
   "GG": {
     "name": {
-      "common": "Guernsey"
+      "common": "Guernsey",
     },
-    "cca2": "GG"
+    "cca2": "GG",
   },
   "GH": {
     "name": {
-      "common": "Ghana"
+      "common": "Ghana",
     },
-    "cca2": "GH"
+    "cca2": "GH",
   },
   "GI": {
     "name": {
-      "common": "Gibraltar"
+      "common": "Gibraltar",
     },
-    "cca2": "GI"
+    "cca2": "GI",
   },
   "GN": {
     "name": {
-      "common": "Guinea"
+      "common": "Guinea",
     },
-    "cca2": "GN"
+    "cca2": "GN",
   },
   "GP": {
     "name": {
-      "common": "Guadeloupe"
+      "common": "Guadeloupe",
     },
-    "cca2": "GP"
+    "cca2": "GP",
   },
   "GM": {
     "name": {
-      "common": "Gambia"
+      "common": "Gambia",
     },
-    "cca2": "GM"
+    "cca2": "GM",
   },
   "GW": {
     "name": {
-      "common": "Guinea-Bissau"
+      "common": "Guinea-Bissau",
     },
-    "cca2": "GW"
+    "cca2": "GW",
   },
   "GQ": {
     "name": {
-      "common": "Equatorial Guinea"
+      "common": "Equatorial Guinea",
     },
-    "cca2": "GQ"
+    "cca2": "GQ",
   },
   "GR": {
     "name": {
-      "common": "Greece"
+      "common": "Greece",
     },
-    "cca2": "GR"
+    "cca2": "GR",
   },
   "GD": {
     "name": {
-      "common": "Grenada"
+      "common": "Grenada",
     },
-    "cca2": "GD"
+    "cca2": "GD",
   },
   "GL": {
     "name": {
-      "common": "Greenland"
+      "common": "Greenland",
     },
-    "cca2": "GL"
+    "cca2": "GL",
   },
   "GT": {
     "name": {
-      "common": "Guatemala"
+      "common": "Guatemala",
     },
-    "cca2": "GT"
+    "cca2": "GT",
   },
   "GF": {
     "name": {
-      "common": "French Guiana"
+      "common": "French Guiana",
     },
-    "cca2": "GF"
+    "cca2": "GF",
   },
   "GU": {
     "name": {
-      "common": "Guam"
+      "common": "Guam",
     },
-    "cca2": "GU"
+    "cca2": "GU",
   },
   "GY": {
     "name": {
-      "common": "Guyana"
+      "common": "Guyana",
     },
-    "cca2": "GY"
+    "cca2": "GY",
   },
   "HK": {
     "name": {
-      "common": "Hong Kong"
+      "common": "Hong Kong",
     },
-    "cca2": "HK"
+    "cca2": "HK",
   },
   "HM": {
     "name": {
-      "common": "Heard Island and McDonald Islands"
+      "common": "Heard Island and McDonald Islands",
     },
-    "cca2": "HM"
+    "cca2": "HM",
   },
   "HN": {
     "name": {
-      "common": "Honduras"
+      "common": "Honduras",
     },
-    "cca2": "HN"
+    "cca2": "HN",
   },
   "HR": {
     "name": {
-      "common": "Croatia"
+      "common": "Croatia",
     },
-    "cca2": "HR"
+    "cca2": "HR",
   },
   "HT": {
     "name": {
-      "common": "Haiti"
+      "common": "Haiti",
     },
-    "cca2": "HT"
+    "cca2": "HT",
   },
   "HU": {
     "name": {
-      "common": "Hungary"
+      "common": "Hungary",
     },
-    "cca2": "HU"
+    "cca2": "HU",
   },
   "ID": {
     "name": {
-      "common": "Indonesia"
+      "common": "Indonesia",
     },
-    "cca2": "ID"
+    "cca2": "ID",
   },
   "IM": {
     "name": {
-      "common": "Isle of Man"
+      "common": "Isle of Man",
     },
-    "cca2": "IM"
+    "cca2": "IM",
   },
   "IN": {
     "name": {
-      "common": "India"
+      "common": "India",
     },
-    "cca2": "IN"
+    "cca2": "IN",
   },
   "IO": {
     "name": {
-      "common": "British Indian Ocean Territory"
+      "common": "British Indian Ocean Territory",
     },
-    "cca2": "IO"
+    "cca2": "IO",
   },
   "IE": {
     "name": {
-      "common": "Ireland"
+      "common": "Ireland",
     },
-    "cca2": "IE"
+    "cca2": "IE",
   },
   "IR": {
     "name": {
-      "common": "Iran"
+      "common": "Iran",
     },
-    "cca2": "IR"
+    "cca2": "IR",
   },
   "IQ": {
     "name": {
-      "common": "Iraq"
+      "common": "Iraq",
     },
-    "cca2": "IQ"
+    "cca2": "IQ",
   },
   "IS": {
     "name": {
-      "common": "Iceland"
+      "common": "Iceland",
     },
-    "cca2": "IS"
+    "cca2": "IS",
   },
   "IL": {
     "name": {
-      "common": "Israel"
+      "common": "Israel",
     },
-    "cca2": "IL"
+    "cca2": "IL",
   },
   "IT": {
     "name": {
-      "common": "Italy"
+      "common": "Italy",
     },
-    "cca2": "IT"
+    "cca2": "IT",
   },
   "JM": {
     "name": {
-      "common": "Jamaica"
+      "common": "Jamaica",
     },
-    "cca2": "JM"
+    "cca2": "JM",
   },
   "JE": {
     "name": {
-      "common": "Jersey"
+      "common": "Jersey",
     },
-    "cca2": "JE"
+    "cca2": "JE",
   },
   "JO": {
     "name": {
-      "common": "Jordan"
+      "common": "Jordan",
     },
-    "cca2": "JO"
+    "cca2": "JO",
   },
   "JP": {
     "name": {
-      "common": "Japan"
+      "common": "Japan",
     },
-    "cca2": "JP"
+    "cca2": "JP",
   },
   "KZ": {
     "name": {
-      "common": "Kazakhstan"
+      "common": "Kazakhstan",
     },
-    "cca2": "KZ"
+    "cca2": "KZ",
   },
   "KE": {
     "name": {
-      "common": "Kenya"
+      "common": "Kenya",
     },
-    "cca2": "KE"
+    "cca2": "KE",
   },
   "KG": {
     "name": {
-      "common": "Kyrgyzstan"
+      "common": "Kyrgyzstan",
     },
-    "cca2": "KG"
+    "cca2": "KG",
   },
   "KH": {
     "name": {
-      "common": "Cambodia"
+      "common": "Cambodia",
     },
-    "cca2": "KH"
+    "cca2": "KH",
   },
   "KI": {
     "name": {
-      "common": "Kiribati"
+      "common": "Kiribati",
     },
-    "cca2": "KI"
+    "cca2": "KI",
   },
   "KN": {
     "name": {
-      "common": "Saint Kitts and Nevis"
+      "common": "Saint Kitts and Nevis",
     },
-    "cca2": "KN"
+    "cca2": "KN",
   },
   "KR": {
     "name": {
-      "common": "South Korea"
+      "common": "South Korea",
     },
-    "cca2": "KR"
+    "cca2": "KR",
   },
   "XK": {
     "name": {
-      "common": "Kosovo"
+      "common": "Kosovo",
     },
-    "cca2": "XK"
+    "cca2": "XK",
   },
   "KW": {
     "name": {
-      "common": "Kuwait"
+      "common": "Kuwait",
     },
-    "cca2": "KW"
+    "cca2": "KW",
   },
   "LA": {
     "name": {
-      "common": "Laos"
+      "common": "Laos",
     },
-    "cca2": "LA"
+    "cca2": "LA",
   },
   "LB": {
     "name": {
-      "common": "Lebanon"
+      "common": "Lebanon",
     },
-    "cca2": "LB"
+    "cca2": "LB",
   },
   "LR": {
     "name": {
-      "common": "Liberia"
+      "common": "Liberia",
     },
-    "cca2": "LR"
+    "cca2": "LR",
   },
   "LY": {
     "name": {
-      "common": "Libya"
+      "common": "Libya",
     },
-    "cca2": "LY"
+    "cca2": "LY",
   },
   "LC": {
     "name": {
-      "common": "Saint Lucia"
+      "common": "Saint Lucia",
     },
-    "cca2": "LC"
+    "cca2": "LC",
   },
   "LI": {
     "name": {
-      "common": "Liechtenstein"
+      "common": "Liechtenstein",
     },
-    "cca2": "LI"
+    "cca2": "LI",
   },
   "LK": {
     "name": {
-      "common": "Sri Lanka"
+      "common": "Sri Lanka",
     },
-    "cca2": "LK"
+    "cca2": "LK",
   },
   "LS": {
     "name": {
-      "common": "Lesotho"
+      "common": "Lesotho",
     },
-    "cca2": "LS"
+    "cca2": "LS",
   },
   "LT": {
     "name": {
-      "common": "Lithuania"
+      "common": "Lithuania",
     },
-    "cca2": "LT"
+    "cca2": "LT",
   },
   "LU": {
     "name": {
-      "common": "Luxembourg"
+      "common": "Luxembourg",
     },
-    "cca2": "LU"
+    "cca2": "LU",
   },
   "LV": {
     "name": {
-      "common": "Latvia"
+      "common": "Latvia",
     },
-    "cca2": "LV"
+    "cca2": "LV",
   },
   "MO": {
     "name": {
-      "common": "Macau"
+      "common": "Macau",
     },
-    "cca2": "MO"
+    "cca2": "MO",
   },
   "MF": {
     "name": {
-      "common": "Saint Martin"
+      "common": "Saint Martin",
     },
-    "cca2": "MF"
+    "cca2": "MF",
   },
   "MA": {
     "name": {
-      "common": "Morocco"
+      "common": "Morocco",
     },
-    "cca2": "MA"
+    "cca2": "MA",
   },
   "MC": {
     "name": {
-      "common": "Monaco"
+      "common": "Monaco",
     },
-    "cca2": "MC"
+    "cca2": "MC",
   },
   "MD": {
     "name": {
-      "common": "Moldova"
+      "common": "Moldova",
     },
-    "cca2": "MD"
+    "cca2": "MD",
   },
   "MG": {
     "name": {
-      "common": "Madagascar"
+      "common": "Madagascar",
     },
-    "cca2": "MG"
+    "cca2": "MG",
   },
   "MV": {
     "name": {
-      "common": "Maldives"
+      "common": "Maldives",
     },
-    "cca2": "MV"
+    "cca2": "MV",
   },
   "MX": {
     "name": {
-      "common": "Mexico"
+      "common": "Mexico",
     },
-    "cca2": "MX"
+    "cca2": "MX",
   },
   "MH": {
     "name": {
-      "common": "Marshall Islands"
+      "common": "Marshall Islands",
     },
-    "cca2": "MH"
+    "cca2": "MH",
   },
   "MK": {
     "name": {
-      "common": "North Macedonia"
+      "common": "North Macedonia",
     },
-    "cca2": "MK"
+    "cca2": "MK",
   },
   "ML": {
     "name": {
-      "common": "Mali"
+      "common": "Mali",
     },
-    "cca2": "ML"
+    "cca2": "ML",
   },
   "MT": {
     "name": {
-      "common": "Malta"
+      "common": "Malta",
     },
-    "cca2": "MT"
+    "cca2": "MT",
   },
   "MM": {
     "name": {
-      "common": "Myanmar"
+      "common": "Myanmar",
     },
-    "cca2": "MM"
+    "cca2": "MM",
   },
   "ME": {
     "name": {
-      "common": "Montenegro"
+      "common": "Montenegro",
     },
-    "cca2": "ME"
+    "cca2": "ME",
   },
   "MN": {
     "name": {
-      "common": "Mongolia"
+      "common": "Mongolia",
     },
-    "cca2": "MN"
+    "cca2": "MN",
   },
   "MP": {
     "name": {
-      "common": "Northern Mariana Islands"
+      "common": "Northern Mariana Islands",
     },
-    "cca2": "MP"
+    "cca2": "MP",
   },
   "MZ": {
     "name": {
-      "common": "Mozambique"
+      "common": "Mozambique",
     },
-    "cca2": "MZ"
+    "cca2": "MZ",
   },
   "MR": {
     "name": {
-      "common": "Mauritania"
+      "common": "Mauritania",
     },
-    "cca2": "MR"
+    "cca2": "MR",
   },
   "MS": {
     "name": {
-      "common": "Montserrat"
+      "common": "Montserrat",
     },
-    "cca2": "MS"
+    "cca2": "MS",
   },
   "MQ": {
     "name": {
-      "common": "Martinique"
+      "common": "Martinique",
     },
-    "cca2": "MQ"
+    "cca2": "MQ",
   },
   "MU": {
     "name": {
-      "common": "Mauritius"
+      "common": "Mauritius",
     },
-    "cca2": "MU"
+    "cca2": "MU",
   },
   "MW": {
     "name": {
-      "common": "Malawi"
+      "common": "Malawi",
     },
-    "cca2": "MW"
+    "cca2": "MW",
   },
   "MY": {
     "name": {
-      "common": "Malaysia"
+      "common": "Malaysia",
     },
-    "cca2": "MY"
+    "cca2": "MY",
   },
   "YT": {
     "name": {
-      "common": "Mayotte"
+      "common": "Mayotte",
     },
-    "cca2": "YT"
+    "cca2": "YT",
   },
   "NA": {
     "name": {
-      "common": "Namibia"
+      "common": "Namibia",
     },
-    "cca2": "NA"
+    "cca2": "NA",
   },
   "NC": {
     "name": {
-      "common": "New Caledonia"
+      "common": "New Caledonia",
     },
-    "cca2": "NC"
+    "cca2": "NC",
   },
   "NE": {
     "name": {
-      "common": "Niger"
+      "common": "Niger",
     },
-    "cca2": "NE"
+    "cca2": "NE",
   },
   "NF": {
     "name": {
-      "common": "Norfolk Island"
+      "common": "Norfolk Island",
     },
-    "cca2": "NF"
+    "cca2": "NF",
   },
   "NG": {
     "name": {
-      "common": "Nigeria"
+      "common": "Nigeria",
     },
-    "cca2": "NG"
+    "cca2": "NG",
   },
   "NI": {
     "name": {
-      "common": "Nicaragua"
+      "common": "Nicaragua",
     },
-    "cca2": "NI"
+    "cca2": "NI",
   },
   "NU": {
     "name": {
-      "common": "Niue"
+      "common": "Niue",
     },
-    "cca2": "NU"
+    "cca2": "NU",
   },
   "NL": {
     "name": {
-      "common": "Netherlands"
+      "common": "Netherlands",
     },
-    "cca2": "NL"
+    "cca2": "NL",
   },
   "NO": {
     "name": {
-      "common": "Norway"
+      "common": "Norway",
     },
-    "cca2": "NO"
+    "cca2": "NO",
   },
   "NP": {
     "name": {
-      "common": "Nepal"
+      "common": "Nepal",
     },
-    "cca2": "NP"
+    "cca2": "NP",
   },
   "NR": {
     "name": {
-      "common": "Nauru"
+      "common": "Nauru",
     },
-    "cca2": "NR"
+    "cca2": "NR",
   },
   "NZ": {
     "name": {
-      "common": "New Zealand"
+      "common": "New Zealand",
     },
-    "cca2": "NZ"
+    "cca2": "NZ",
   },
   "OM": {
     "name": {
-      "common": "Oman"
+      "common": "Oman",
     },
-    "cca2": "OM"
+    "cca2": "OM",
   },
   "PK": {
     "name": {
-      "common": "Pakistan"
+      "common": "Pakistan",
     },
-    "cca2": "PK"
+    "cca2": "PK",
   },
   "PA": {
     "name": {
-      "common": "Panama"
+      "common": "Panama",
     },
-    "cca2": "PA"
+    "cca2": "PA",
   },
   "PN": {
     "name": {
-      "common": "Pitcairn Islands"
+      "common": "Pitcairn Islands",
     },
-    "cca2": "PN"
+    "cca2": "PN",
   },
   "PE": {
     "name": {
-      "common": "Peru"
+      "common": "Peru",
     },
-    "cca2": "PE"
+    "cca2": "PE",
   },
   "PH": {
     "name": {
-      "common": "Philippines"
+      "common": "Philippines",
     },
-    "cca2": "PH"
+    "cca2": "PH",
   },
   "PW": {
     "name": {
-      "common": "Palau"
+      "common": "Palau",
     },
-    "cca2": "PW"
+    "cca2": "PW",
   },
   "PG": {
     "name": {
-      "common": "Papua New Guinea"
+      "common": "Papua New Guinea",
     },
-    "cca2": "PG"
+    "cca2": "PG",
   },
   "PL": {
     "name": {
-      "common": "Poland"
+      "common": "Poland",
     },
-    "cca2": "PL"
+    "cca2": "PL",
   },
   "PR": {
     "name": {
-      "common": "Puerto Rico"
+      "common": "Puerto Rico",
     },
-    "cca2": "PR"
+    "cca2": "PR",
   },
   "KP": {
     "name": {
-      "common": "North Korea"
+      "common": "North Korea",
     },
-    "cca2": "KP"
+    "cca2": "KP",
   },
   "PT": {
     "name": {
-      "common": "Portugal"
+      "common": "Portugal",
     },
-    "cca2": "PT"
+    "cca2": "PT",
   },
   "PY": {
     "name": {
-      "common": "Paraguay"
+      "common": "Paraguay",
     },
-    "cca2": "PY"
+    "cca2": "PY",
   },
   "PS": {
     "name": {
-      "common": "Palestine"
+      "common": "Palestine",
     },
-    "cca2": "PS"
+    "cca2": "PS",
   },
   "PF": {
     "name": {
-      "common": "French Polynesia"
+      "common": "French Polynesia",
     },
-    "cca2": "PF"
+    "cca2": "PF",
   },
   "QA": {
     "name": {
-      "common": "Qatar"
+      "common": "Qatar",
     },
-    "cca2": "QA"
+    "cca2": "QA",
   },
   "RE": {
     "name": {
-      "common": "Réunion"
+      "common": "Réunion",
     },
-    "cca2": "RE"
+    "cca2": "RE",
   },
   "RO": {
     "name": {
-      "common": "Romania"
+      "common": "Romania",
     },
-    "cca2": "RO"
+    "cca2": "RO",
   },
   "RU": {
     "name": {
-      "common": "Russia"
+      "common": "Russia",
     },
-    "cca2": "RU"
+    "cca2": "RU",
   },
   "RW": {
     "name": {
-      "common": "Rwanda"
+      "common": "Rwanda",
     },
-    "cca2": "RW"
+    "cca2": "RW",
   },
   "SA": {
     "name": {
-      "common": "Saudi Arabia"
+      "common": "Saudi Arabia",
     },
-    "cca2": "SA"
+    "cca2": "SA",
   },
   "SD": {
     "name": {
-      "common": "Sudan"
+      "common": "Sudan",
     },
-    "cca2": "SD"
+    "cca2": "SD",
   },
   "SN": {
     "name": {
-      "common": "Senegal"
+      "common": "Senegal",
     },
-    "cca2": "SN"
+    "cca2": "SN",
   },
   "SG": {
     "name": {
-      "common": "Singapore"
+      "common": "Singapore",
     },
-    "cca2": "SG"
+    "cca2": "SG",
   },
   "GS": {
     "name": {
-      "common": "South Georgia"
+      "common": "South Georgia",
     },
-    "cca2": "GS"
+    "cca2": "GS",
   },
   "SJ": {
     "name": {
-      "common": "Svalbard and Jan Mayen"
+      "common": "Svalbard and Jan Mayen",
     },
-    "cca2": "SJ"
+    "cca2": "SJ",
   },
   "SB": {
     "name": {
-      "common": "Solomon Islands"
+      "common": "Solomon Islands",
     },
-    "cca2": "SB"
+    "cca2": "SB",
   },
   "SL": {
     "name": {
-      "common": "Sierra Leone"
+      "common": "Sierra Leone",
     },
-    "cca2": "SL"
+    "cca2": "SL",
   },
   "SV": {
     "name": {
-      "common": "El Salvador"
+      "common": "El Salvador",
     },
-    "cca2": "SV"
+    "cca2": "SV",
   },
   "SM": {
     "name": {
-      "common": "San Marino"
+      "common": "San Marino",
     },
-    "cca2": "SM"
+    "cca2": "SM",
   },
   "SO": {
     "name": {
-      "common": "Somalia"
+      "common": "Somalia",
     },
-    "cca2": "SO"
+    "cca2": "SO",
   },
   "PM": {
     "name": {
-      "common": "Saint Pierre and Miquelon"
+      "common": "Saint Pierre and Miquelon",
     },
-    "cca2": "PM"
+    "cca2": "PM",
   },
   "RS": {
     "name": {
-      "common": "Serbia"
+      "common": "Serbia",
     },
-    "cca2": "RS"
+    "cca2": "RS",
   },
   "SS": {
     "name": {
-      "common": "South Sudan"
+      "common": "South Sudan",
     },
-    "cca2": "SS"
+    "cca2": "SS",
   },
   "ST": {
     "name": {
-      "common": "São Tomé and Príncipe"
+      "common": "São Tomé and Príncipe",
     },
-    "cca2": "ST"
+    "cca2": "ST",
   },
   "SR": {
     "name": {
-      "common": "Suriname"
+      "common": "Suriname",
     },
-    "cca2": "SR"
+    "cca2": "SR",
   },
   "SK": {
     "name": {
-      "common": "Slovakia"
+      "common": "Slovakia",
     },
-    "cca2": "SK"
+    "cca2": "SK",
   },
   "SI": {
     "name": {
-      "common": "Slovenia"
+      "common": "Slovenia",
     },
-    "cca2": "SI"
+    "cca2": "SI",
   },
   "SE": {
     "name": {
-      "common": "Sweden"
+      "common": "Sweden",
     },
-    "cca2": "SE"
+    "cca2": "SE",
   },
   "SZ": {
     "name": {
-      "common": "Eswatini"
+      "common": "Eswatini",
     },
-    "cca2": "SZ"
+    "cca2": "SZ",
   },
   "SX": {
     "name": {
-      "common": "Sint Maarten"
+      "common": "Sint Maarten",
     },
-    "cca2": "SX"
+    "cca2": "SX",
   },
   "SC": {
     "name": {
-      "common": "Seychelles"
+      "common": "Seychelles",
     },
-    "cca2": "SC"
+    "cca2": "SC",
   },
   "SY": {
     "name": {
-      "common": "Syria"
+      "common": "Syria",
     },
-    "cca2": "SY"
+    "cca2": "SY",
   },
   "TC": {
     "name": {
-      "common": "Turks and Caicos Islands"
+      "common": "Turks and Caicos Islands",
     },
-    "cca2": "TC"
+    "cca2": "TC",
   },
   "TD": {
     "name": {
-      "common": "Chad"
+      "common": "Chad",
     },
-    "cca2": "TD"
+    "cca2": "TD",
   },
   "TG": {
     "name": {
-      "common": "Togo"
+      "common": "Togo",
     },
-    "cca2": "TG"
+    "cca2": "TG",
   },
   "TH": {
     "name": {
-      "common": "Thailand"
+      "common": "Thailand",
     },
-    "cca2": "TH"
+    "cca2": "TH",
   },
   "TJ": {
     "name": {
-      "common": "Tajikistan"
+      "common": "Tajikistan",
     },
-    "cca2": "TJ"
+    "cca2": "TJ",
   },
   "TK": {
     "name": {
-      "common": "Tokelau"
+      "common": "Tokelau",
     },
-    "cca2": "TK"
+    "cca2": "TK",
   },
   "TM": {
     "name": {
-      "common": "Turkmenistan"
+      "common": "Turkmenistan",
     },
-    "cca2": "TM"
+    "cca2": "TM",
   },
   "TL": {
     "name": {
-      "common": "Timor-Leste"
+      "common": "Timor-Leste",
     },
-    "cca2": "TL"
+    "cca2": "TL",
   },
   "TO": {
     "name": {
-      "common": "Tonga"
+      "common": "Tonga",
     },
-    "cca2": "TO"
+    "cca2": "TO",
   },
   "TT": {
     "name": {
-      "common": "Trinidad and Tobago"
+      "common": "Trinidad and Tobago",
     },
-    "cca2": "TT"
+    "cca2": "TT",
   },
   "TN": {
     "name": {
-      "common": "Tunisia"
+      "common": "Tunisia",
     },
-    "cca2": "TN"
+    "cca2": "TN",
   },
   "TR": {
     "name": {
-      "common": "Turkey"
+      "common": "Turkey",
     },
-    "cca2": "TR"
+    "cca2": "TR",
   },
   "TV": {
     "name": {
-      "common": "Tuvalu"
+      "common": "Tuvalu",
     },
-    "cca2": "TV"
+    "cca2": "TV",
   },
   "TW": {
     "name": {
-      "common": "Taiwan"
+      "common": "Taiwan",
     },
-    "cca2": "TW"
+    "cca2": "TW",
   },
   "TZ": {
     "name": {
-      "common": "Tanzania"
+      "common": "Tanzania",
     },
-    "cca2": "TZ"
+    "cca2": "TZ",
   },
   "UG": {
     "name": {
-      "common": "Uganda"
+      "common": "Uganda",
     },
-    "cca2": "UG"
+    "cca2": "UG",
   },
   "UA": {
     "name": {
-      "common": "Ukraine"
+      "common": "Ukraine",
     },
-    "cca2": "UA"
+    "cca2": "UA",
   },
   "UM": {
     "name": {
-      "common": "United States Minor Outlying Islands"
+      "common": "United States Minor Outlying Islands",
     },
-    "cca2": "UM"
+    "cca2": "UM",
   },
   "UY": {
     "name": {
-      "common": "Uruguay"
+      "common": "Uruguay",
     },
-    "cca2": "UY"
+    "cca2": "UY",
   },
   "US": {
     "name": {
-      "common": "United States"
+      "common": "United States",
     },
-    "cca2": "US"
+    "cca2": "US",
   },
   "UZ": {
     "name": {
-      "common": "Uzbekistan"
+      "common": "Uzbekistan",
     },
-    "cca2": "UZ"
+    "cca2": "UZ",
   },
   "VA": {
     "name": {
-      "common": "Vatican City"
+      "common": "Vatican City",
     },
-    "cca2": "VA"
+    "cca2": "VA",
   },
   "VC": {
     "name": {
-      "common": "Saint Vincent and the Grenadines"
+      "common": "Saint Vincent and the Grenadines",
     },
-    "cca2": "VC"
+    "cca2": "VC",
   },
   "VE": {
     "name": {
-      "common": "Venezuela"
+      "common": "Venezuela",
     },
-    "cca2": "VE"
+    "cca2": "VE",
   },
   "VG": {
     "name": {
-      "common": "British Virgin Islands"
+      "common": "British Virgin Islands",
     },
-    "cca2": "VG"
+    "cca2": "VG",
   },
   "VI": {
     "name": {
-      "common": "United States Virgin Islands"
+      "common": "United States Virgin Islands",
     },
-    "cca2": "VI"
+    "cca2": "VI",
   },
   "VN": {
     "name": {
-      "common": "Vietnam"
+      "common": "Vietnam",
     },
-    "cca2": "VN"
+    "cca2": "VN",
   },
   "VU": {
     "name": {
-      "common": "Vanuatu"
+      "common": "Vanuatu",
     },
-    "cca2": "VU"
+    "cca2": "VU",
   },
   "WF": {
     "name": {
-      "common": "Wallis and Futuna"
+      "common": "Wallis and Futuna",
     },
-    "cca2": "WF"
+    "cca2": "WF",
   },
   "WS": {
     "name": {
-      "common": "Samoa"
+      "common": "Samoa",
     },
-    "cca2": "WS"
+    "cca2": "WS",
   },
   "YE": {
     "name": {
-      "common": "Yemen"
+      "common": "Yemen",
     },
-    "cca2": "YE"
+    "cca2": "YE",
   },
   "ZA": {
     "name": {
-      "common": "South Africa"
+      "common": "South Africa",
     },
-    "cca2": "ZA"
+    "cca2": "ZA",
   },
   "ZM": {
     "name": {
-      "common": "Zambia"
+      "common": "Zambia",
     },
-    "cca2": "ZM"
+    "cca2": "ZM",
   },
   "ZW": {
     "name": {
-      "common": "Zimbabwe"
+      "common": "Zimbabwe",
     },
-    "cca2": "ZW"
-  }
-}
+    "cca2": "ZW",
+  },
+};

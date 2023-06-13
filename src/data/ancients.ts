@@ -10,5 +10,5 @@ export const Ancients = {
   "npc_dota_neutral_big_thunder_lizard": 1,
   "npc_dota_neutral_small_thunder_lizard": 1,
   "npc_dota_neutral_black_drake": 1,
-  "npc_dota_neutral_black_dragon": 1
-}
+  "npc_dota_neutral_black_dragon": 1,
+};

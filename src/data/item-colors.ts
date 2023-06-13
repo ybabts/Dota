@@ -5,5 +5,5 @@ export const ItemColorsData = {
   "consumable": "#1D80E7",
   "common": "#2BAB01",
   "epic": "#B812F9",
-  "component": "#FFFFFF"
-}
+  "component": "#FFFFFF",
+};

@@ -48,7 +48,7 @@ export const Heroes: Record<
     "roles": [
       "Carry",
       "Escape",
-      "Nuker"
+      "Nuker",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/antimage.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/antimage.png?",
@@ -76,7 +76,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "2": {
     "id": 2,
@@ -88,7 +88,7 @@ export const Heroes: Record<
       "Initiator",
       "Durable",
       "Disabler",
-      "Carry"
+      "Carry",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/axe.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/axe.png?",
@@ -116,7 +116,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "3": {
     "id": 3,
@@ -128,7 +128,7 @@ export const Heroes: Record<
       "Support",
       "Disabler",
       "Nuker",
-      "Durable"
+      "Durable",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/bane.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/bane.png?",
@@ -156,7 +156,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 4,
     "day_vision": 1800,
-    "night_vision": 1200
+    "night_vision": 1200,
   },
   "4": {
     "id": 4,
@@ -168,7 +168,7 @@ export const Heroes: Record<
       "Carry",
       "Disabler",
       "Nuker",
-      "Initiator"
+      "Initiator",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/bloodseeker.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/bloodseeker.png?",
@@ -196,7 +196,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "5": {
     "id": 5,
@@ -207,7 +207,7 @@ export const Heroes: Record<
     "roles": [
       "Support",
       "Disabler",
-      "Nuker"
+      "Nuker",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/crystal_maiden.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/crystal_maiden.png?",
@@ -235,7 +235,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "6": {
     "id": 6,
@@ -246,7 +246,7 @@ export const Heroes: Record<
     "roles": [
       "Carry",
       "Disabler",
-      "Pusher"
+      "Pusher",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/drow_ranger.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/drow_ranger.png?",
@@ -274,7 +274,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "7": {
     "id": 7,
@@ -286,7 +286,7 @@ export const Heroes: Record<
       "Support",
       "Initiator",
       "Disabler",
-      "Nuker"
+      "Nuker",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/earthshaker.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/earthshaker.png?",
@@ -314,7 +314,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "8": {
     "id": 8,
@@ -325,7 +325,7 @@ export const Heroes: Record<
     "roles": [
       "Carry",
       "Pusher",
-      "Escape"
+      "Escape",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/juggernaut.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/juggernaut.png?",
@@ -353,7 +353,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "9": {
     "id": 9,
@@ -366,7 +366,7 @@ export const Heroes: Record<
       "Support",
       "Escape",
       "Nuker",
-      "Disabler"
+      "Disabler",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/mirana.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/mirana.png?",
@@ -394,7 +394,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "10": {
     "id": 10,
@@ -407,7 +407,7 @@ export const Heroes: Record<
       "Escape",
       "Durable",
       "Nuker",
-      "Disabler"
+      "Disabler",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/morphling.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/morphling.png?",
@@ -435,7 +435,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 0,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "11": {
     "id": 11,
@@ -445,7 +445,7 @@ export const Heroes: Record<
     "attack_type": "Ranged",
     "roles": [
       "Carry",
-      "Nuker"
+      "Nuker",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/nevermore.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/nevermore.png?",
@@ -473,7 +473,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 0,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "12": {
     "id": 12,
@@ -485,7 +485,7 @@ export const Heroes: Record<
       "Carry",
       "Escape",
       "Pusher",
-      "Nuker"
+      "Nuker",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/phantom_lancer.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/phantom_lancer.png?",
@@ -513,7 +513,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "13": {
     "id": 13,
@@ -525,7 +525,7 @@ export const Heroes: Record<
       "Initiator",
       "Disabler",
       "Escape",
-      "Nuker"
+      "Nuker",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/puck.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/puck.png?",
@@ -553,7 +553,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "14": {
     "id": 14,
@@ -565,7 +565,7 @@ export const Heroes: Record<
       "Disabler",
       "Initiator",
       "Durable",
-      "Nuker"
+      "Nuker",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/pudge.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/pudge.png?",
@@ -593,7 +593,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "15": {
     "id": 15,
@@ -605,7 +605,7 @@ export const Heroes: Record<
       "Carry",
       "Durable",
       "Nuker",
-      "Pusher"
+      "Pusher",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/razor.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/razor.png?",
@@ -633,7 +633,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 0,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "16": {
     "id": 16,
@@ -646,7 +646,7 @@ export const Heroes: Record<
       "Disabler",
       "Support",
       "Nuker",
-      "Escape"
+      "Escape",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/sand_king.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/sand_king.png?",
@@ -674,7 +674,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 6,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "17": {
     "id": 17,
@@ -687,7 +687,7 @@ export const Heroes: Record<
       "Escape",
       "Nuker",
       "Initiator",
-      "Disabler"
+      "Disabler",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/storm_spirit.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/storm_spirit.png?",
@@ -715,7 +715,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "18": {
     "id": 18,
@@ -728,7 +728,7 @@ export const Heroes: Record<
       "Disabler",
       "Initiator",
       "Durable",
-      "Nuker"
+      "Nuker",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/sven.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/sven.png?",
@@ -756,7 +756,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "19": {
     "id": 19,
@@ -770,7 +770,7 @@ export const Heroes: Record<
       "Pusher",
       "Initiator",
       "Durable",
-      "Disabler"
+      "Disabler",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/tiny.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/tiny.png?",
@@ -798,7 +798,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "20": {
     "id": 20,
@@ -811,7 +811,7 @@ export const Heroes: Record<
       "Initiator",
       "Disabler",
       "Nuker",
-      "Escape"
+      "Escape",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/vengefulspirit.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/vengefulspirit.png?",
@@ -839,7 +839,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "21": {
     "id": 21,
@@ -852,7 +852,7 @@ export const Heroes: Record<
       "Support",
       "Disabler",
       "Escape",
-      "Nuker"
+      "Nuker",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/windrunner.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/windrunner.png?",
@@ -880,7 +880,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "22": {
     "id": 22,
@@ -890,7 +890,7 @@ export const Heroes: Record<
     "attack_type": "Ranged",
     "roles": [
       "Nuker",
-      "Carry"
+      "Carry",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/zuus.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/zuus.png?",
@@ -918,7 +918,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "23": {
     "id": 23,
@@ -932,7 +932,7 @@ export const Heroes: Record<
       "Disabler",
       "Initiator",
       "Durable",
-      "Nuker"
+      "Nuker",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/kunkka.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/kunkka.png?",
@@ -960,7 +960,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "25": {
     "id": 25,
@@ -972,7 +972,7 @@ export const Heroes: Record<
       "Support",
       "Carry",
       "Nuker",
-      "Disabler"
+      "Disabler",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/lina.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/lina.png?",
@@ -1000,7 +1000,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "26": {
     "id": 26,
@@ -1012,7 +1012,7 @@ export const Heroes: Record<
       "Support",
       "Disabler",
       "Nuker",
-      "Initiator"
+      "Initiator",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/lion.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/lion.png?",
@@ -1040,7 +1040,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "27": {
     "id": 27,
@@ -1053,7 +1053,7 @@ export const Heroes: Record<
       "Pusher",
       "Disabler",
       "Nuker",
-      "Initiator"
+      "Initiator",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/shadow_shaman.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/shadow_shaman.png?",
@@ -1081,7 +1081,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "28": {
     "id": 28,
@@ -1094,7 +1094,7 @@ export const Heroes: Record<
       "Durable",
       "Initiator",
       "Disabler",
-      "Escape"
+      "Escape",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/slardar.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/slardar.png?",
@@ -1122,7 +1122,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 0,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "29": {
     "id": 29,
@@ -1135,7 +1135,7 @@ export const Heroes: Record<
       "Durable",
       "Disabler",
       "Nuker",
-      "Carry"
+      "Carry",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/tidehunter.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/tidehunter.png?",
@@ -1163,7 +1163,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "30": {
     "id": 30,
@@ -1174,7 +1174,7 @@ export const Heroes: Record<
     "roles": [
       "Support",
       "Nuker",
-      "Disabler"
+      "Disabler",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/witch_doctor.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/witch_doctor.png?",
@@ -1202,7 +1202,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "31": {
     "id": 31,
@@ -1212,7 +1212,7 @@ export const Heroes: Record<
     "attack_type": "Ranged",
     "roles": [
       "Support",
-      "Nuker"
+      "Nuker",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/lich.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/lich.png?",
@@ -1240,7 +1240,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "32": {
     "id": 32,
@@ -1251,7 +1251,7 @@ export const Heroes: Record<
     "roles": [
       "Carry",
       "Escape",
-      "Disabler"
+      "Disabler",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/riki.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/riki.png?",
@@ -1279,7 +1279,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "33": {
     "id": 33,
@@ -1290,7 +1290,7 @@ export const Heroes: Record<
     "roles": [
       "Disabler",
       "Initiator",
-      "Pusher"
+      "Pusher",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/enigma.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/enigma.png?",
@@ -1318,7 +1318,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 0,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "34": {
     "id": 34,
@@ -1329,7 +1329,7 @@ export const Heroes: Record<
     "roles": [
       "Carry",
       "Nuker",
-      "Pusher"
+      "Pusher",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/tinker.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/tinker.png?",
@@ -1357,7 +1357,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "35": {
     "id": 35,
@@ -1367,7 +1367,7 @@ export const Heroes: Record<
     "attack_type": "Ranged",
     "roles": [
       "Carry",
-      "Nuker"
+      "Nuker",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/sniper.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/sniper.png?",
@@ -1395,7 +1395,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 1400
+    "night_vision": 1400,
   },
   "36": {
     "id": 36,
@@ -1407,7 +1407,7 @@ export const Heroes: Record<
       "Carry",
       "Nuker",
       "Durable",
-      "Disabler"
+      "Disabler",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/necrolyte.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/necrolyte.png?",
@@ -1435,7 +1435,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "37": {
     "id": 37,
@@ -1446,7 +1446,7 @@ export const Heroes: Record<
     "roles": [
       "Support",
       "Initiator",
-      "Disabler"
+      "Disabler",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/warlock.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/warlock.png?",
@@ -1474,7 +1474,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "38": {
     "id": 38,
@@ -1486,7 +1486,7 @@ export const Heroes: Record<
       "Initiator",
       "Disabler",
       "Durable",
-      "Nuker"
+      "Nuker",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/beastmaster.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/beastmaster.png?",
@@ -1514,7 +1514,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "39": {
     "id": 39,
@@ -1525,7 +1525,7 @@ export const Heroes: Record<
     "roles": [
       "Carry",
       "Nuker",
-      "Escape"
+      "Escape",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/queenofpain.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/queenofpain.png?",
@@ -1553,7 +1553,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "40": {
     "id": 40,
@@ -1566,7 +1566,7 @@ export const Heroes: Record<
       "Nuker",
       "Initiator",
       "Pusher",
-      "Disabler"
+      "Disabler",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/venomancer.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/venomancer.png?",
@@ -1594,7 +1594,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 0,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "41": {
     "id": 41,
@@ -1607,7 +1607,7 @@ export const Heroes: Record<
       "Initiator",
       "Disabler",
       "Escape",
-      "Durable"
+      "Durable",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/faceless_void.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/faceless_void.png?",
@@ -1635,7 +1635,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "42": {
     "id": 42,
@@ -1648,7 +1648,7 @@ export const Heroes: Record<
       "Support",
       "Durable",
       "Disabler",
-      "Initiator"
+      "Initiator",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/skeleton_king.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/skeleton_king.png?",
@@ -1676,7 +1676,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "43": {
     "id": 43,
@@ -1688,7 +1688,7 @@ export const Heroes: Record<
       "Carry",
       "Pusher",
       "Nuker",
-      "Disabler"
+      "Disabler",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/death_prophet.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/death_prophet.png?",
@@ -1716,7 +1716,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "44": {
     "id": 44,
@@ -1726,7 +1726,7 @@ export const Heroes: Record<
     "attack_type": "Melee",
     "roles": [
       "Carry",
-      "Escape"
+      "Escape",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/phantom_assassin.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/phantom_assassin.png?",
@@ -1754,7 +1754,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "45": {
     "id": 45,
@@ -1764,7 +1764,7 @@ export const Heroes: Record<
     "attack_type": "Ranged",
     "roles": [
       "Nuker",
-      "Pusher"
+      "Pusher",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/pugna.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/pugna.png?",
@@ -1792,7 +1792,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "46": {
     "id": 46,
@@ -1802,7 +1802,7 @@ export const Heroes: Record<
     "attack_type": "Ranged",
     "roles": [
       "Carry",
-      "Escape"
+      "Escape",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/templar_assassin.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/templar_assassin.png?",
@@ -1830,7 +1830,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "47": {
     "id": 47,
@@ -1842,7 +1842,7 @@ export const Heroes: Record<
       "Carry",
       "Durable",
       "Initiator",
-      "Disabler"
+      "Disabler",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/viper.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/viper.png?",
@@ -1870,7 +1870,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 0,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "48": {
     "id": 48,
@@ -1881,7 +1881,7 @@ export const Heroes: Record<
     "roles": [
       "Carry",
       "Nuker",
-      "Pusher"
+      "Pusher",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/luna.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/luna.png?",
@@ -1909,7 +1909,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "49": {
     "id": 49,
@@ -1923,7 +1923,7 @@ export const Heroes: Record<
       "Durable",
       "Disabler",
       "Initiator",
-      "Nuker"
+      "Nuker",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/dragon_knight.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/dragon_knight.png?",
@@ -1951,7 +1951,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "50": {
     "id": 50,
@@ -1962,7 +1962,7 @@ export const Heroes: Record<
     "roles": [
       "Support",
       "Nuker",
-      "Disabler"
+      "Disabler",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/dazzle.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/dazzle.png?",
@@ -1990,7 +1990,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "51": {
     "id": 51,
@@ -2002,7 +2002,7 @@ export const Heroes: Record<
       "Initiator",
       "Disabler",
       "Durable",
-      "Nuker"
+      "Nuker",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/rattletrap.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/rattletrap.png?",
@@ -2030,7 +2030,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "52": {
     "id": 52,
@@ -2043,7 +2043,7 @@ export const Heroes: Record<
       "Support",
       "Nuker",
       "Pusher",
-      "Disabler"
+      "Disabler",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/leshrac.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/leshrac.png?",
@@ -2071,7 +2071,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 4,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "53": {
     "id": 53,
@@ -2083,7 +2083,7 @@ export const Heroes: Record<
       "Carry",
       "Pusher",
       "Escape",
-      "Nuker"
+      "Nuker",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/furion.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/furion.png?",
@@ -2111,7 +2111,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "54": {
     "id": 54,
@@ -2123,7 +2123,7 @@ export const Heroes: Record<
       "Carry",
       "Durable",
       "Escape",
-      "Disabler"
+      "Disabler",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/life_stealer.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/life_stealer.png?",
@@ -2151,7 +2151,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "55": {
     "id": 55,
@@ -2162,7 +2162,7 @@ export const Heroes: Record<
     "roles": [
       "Initiator",
       "Escape",
-      "Disabler"
+      "Disabler",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/dark_seer.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/dark_seer.png?",
@@ -2190,7 +2190,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "56": {
     "id": 56,
@@ -2201,7 +2201,7 @@ export const Heroes: Record<
     "roles": [
       "Carry",
       "Escape",
-      "Pusher"
+      "Pusher",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/clinkz.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/clinkz.png?",
@@ -2229,7 +2229,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "57": {
     "id": 57,
@@ -2240,7 +2240,7 @@ export const Heroes: Record<
     "roles": [
       "Support",
       "Durable",
-      "Nuker"
+      "Nuker",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/omniknight.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/omniknight.png?",
@@ -2268,7 +2268,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "58": {
     "id": 58,
@@ -2280,7 +2280,7 @@ export const Heroes: Record<
       "Support",
       "Pusher",
       "Durable",
-      "Disabler"
+      "Disabler",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/enchantress.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/enchantress.png?",
@@ -2308,7 +2308,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 4,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "59": {
     "id": 59,
@@ -2319,7 +2319,7 @@ export const Heroes: Record<
     "roles": [
       "Carry",
       "Durable",
-      "Initiator"
+      "Initiator",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/huskar.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/huskar.png?",
@@ -2347,7 +2347,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "60": {
     "id": 60,
@@ -2360,7 +2360,7 @@ export const Heroes: Record<
       "Initiator",
       "Durable",
       "Disabler",
-      "Nuker"
+      "Nuker",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/night_stalker.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/night_stalker.png?",
@@ -2388,7 +2388,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 800,
-    "night_vision": 1800
+    "night_vision": 1800,
   },
   "61": {
     "id": 61,
@@ -2400,7 +2400,7 @@ export const Heroes: Record<
       "Carry",
       "Pusher",
       "Escape",
-      "Nuker"
+      "Nuker",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/broodmother.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/broodmother.png?",
@@ -2428,7 +2428,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 8,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "62": {
     "id": 62,
@@ -2438,7 +2438,7 @@ export const Heroes: Record<
     "attack_type": "Melee",
     "roles": [
       "Escape",
-      "Nuker"
+      "Nuker",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/bounty_hunter.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/bounty_hunter.png?",
@@ -2466,7 +2466,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 1000
+    "night_vision": 1000,
   },
   "63": {
     "id": 63,
@@ -2476,7 +2476,7 @@ export const Heroes: Record<
     "attack_type": "Ranged",
     "roles": [
       "Carry",
-      "Escape"
+      "Escape",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/weaver.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/weaver.png?",
@@ -2504,7 +2504,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 4,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "64": {
     "id": 64,
@@ -2516,7 +2516,7 @@ export const Heroes: Record<
       "Support",
       "Nuker",
       "Pusher",
-      "Disabler"
+      "Disabler",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/jakiro.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/jakiro.png?",
@@ -2544,7 +2544,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "65": {
     "id": 65,
@@ -2555,7 +2555,7 @@ export const Heroes: Record<
     "roles": [
       "Initiator",
       "Disabler",
-      "Escape"
+      "Escape",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/batrider.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/batrider.png?",
@@ -2583,7 +2583,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1600,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "66": {
     "id": 66,
@@ -2593,7 +2593,7 @@ export const Heroes: Record<
     "attack_type": "Ranged",
     "roles": [
       "Support",
-      "Pusher"
+      "Pusher",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/chen.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/chen.png?",
@@ -2621,7 +2621,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "67": {
     "id": 67,
@@ -2632,7 +2632,7 @@ export const Heroes: Record<
     "roles": [
       "Carry",
       "Durable",
-      "Escape"
+      "Escape",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/spectre.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/spectre.png?",
@@ -2660,7 +2660,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 0,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "68": {
     "id": 68,
@@ -2671,10 +2671,11 @@ export const Heroes: Record<
     "roles": [
       "Support",
       "Disabler",
-      "Nuker"
+      "Nuker",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/ancient_apparition.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/ancient_apparition.png?",
+    "icon":
+      "/apps/dota2/images/dota_react/heroes/icons/ancient_apparition.png?",
     "base_health": 120,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -2699,7 +2700,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 0,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "69": {
     "id": 69,
@@ -2712,7 +2713,7 @@ export const Heroes: Record<
       "Disabler",
       "Initiator",
       "Durable",
-      "Nuker"
+      "Nuker",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/doom_bringer.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/doom_bringer.png?",
@@ -2740,7 +2741,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "70": {
     "id": 70,
@@ -2751,7 +2752,7 @@ export const Heroes: Record<
     "roles": [
       "Carry",
       "Durable",
-      "Disabler"
+      "Disabler",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/ursa.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/ursa.png?",
@@ -2779,7 +2780,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "71": {
     "id": 71,
@@ -2792,7 +2793,7 @@ export const Heroes: Record<
       "Initiator",
       "Disabler",
       "Durable",
-      "Escape"
+      "Escape",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/spirit_breaker.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/spirit_breaker.png?",
@@ -2820,7 +2821,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "72": {
     "id": 72,
@@ -2831,7 +2832,7 @@ export const Heroes: Record<
     "roles": [
       "Carry",
       "Nuker",
-      "Disabler"
+      "Disabler",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/gyrocopter.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/gyrocopter.png?",
@@ -2859,7 +2860,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "73": {
     "id": 73,
@@ -2873,7 +2874,7 @@ export const Heroes: Record<
       "Durable",
       "Disabler",
       "Initiator",
-      "Nuker"
+      "Nuker",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/alchemist.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/alchemist.png?",
@@ -2901,7 +2902,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "74": {
     "id": 74,
@@ -2914,7 +2915,7 @@ export const Heroes: Record<
       "Nuker",
       "Disabler",
       "Escape",
-      "Pusher"
+      "Pusher",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/invoker.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/invoker.png?",
@@ -2942,7 +2943,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "75": {
     "id": 75,
@@ -2955,7 +2956,7 @@ export const Heroes: Record<
       "Support",
       "Disabler",
       "Initiator",
-      "Nuker"
+      "Nuker",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/silencer.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/silencer.png?",
@@ -2983,7 +2984,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "76": {
     "id": 76,
@@ -2994,10 +2995,11 @@ export const Heroes: Record<
     "roles": [
       "Carry",
       "Nuker",
-      "Disabler"
+      "Disabler",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/obsidian_destroyer.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/obsidian_destroyer.png?",
+    "icon":
+      "/apps/dota2/images/dota_react/heroes/icons/obsidian_destroyer.png?",
     "base_health": 120,
     "base_health_regen": 1,
     "base_mana": 75,
@@ -3022,7 +3024,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 4,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "77": {
     "id": 77,
@@ -3034,7 +3036,7 @@ export const Heroes: Record<
       "Carry",
       "Pusher",
       "Durable",
-      "Escape"
+      "Escape",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/lycan.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/lycan.png?",
@@ -3062,7 +3064,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "78": {
     "id": 78,
@@ -3075,7 +3077,7 @@ export const Heroes: Record<
       "Initiator",
       "Durable",
       "Disabler",
-      "Nuker"
+      "Nuker",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/brewmaster.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/brewmaster.png?",
@@ -3103,7 +3105,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "79": {
     "id": 79,
@@ -3115,7 +3117,7 @@ export const Heroes: Record<
       "Support",
       "Disabler",
       "Initiator",
-      "Nuker"
+      "Nuker",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/shadow_demon.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/shadow_demon.png?",
@@ -3143,7 +3145,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "80": {
     "id": 80,
@@ -3154,7 +3156,7 @@ export const Heroes: Record<
     "roles": [
       "Carry",
       "Pusher",
-      "Durable"
+      "Durable",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/lone_druid.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/lone_druid.png?",
@@ -3182,7 +3184,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "81": {
     "id": 81,
@@ -3195,7 +3197,7 @@ export const Heroes: Record<
       "Disabler",
       "Durable",
       "Pusher",
-      "Initiator"
+      "Initiator",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/chaos_knight.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/chaos_knight.png?",
@@ -3223,7 +3225,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "82": {
     "id": 82,
@@ -3237,7 +3239,7 @@ export const Heroes: Record<
       "Nuker",
       "Disabler",
       "Initiator",
-      "Pusher"
+      "Pusher",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/meepo.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/meepo.png?",
@@ -3265,7 +3267,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "83": {
     "id": 83,
@@ -3278,7 +3280,7 @@ export const Heroes: Record<
       "Initiator",
       "Durable",
       "Disabler",
-      "Escape"
+      "Escape",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/treant.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/treant.png?",
@@ -3306,7 +3308,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "84": {
     "id": 84,
@@ -3319,7 +3321,7 @@ export const Heroes: Record<
       "Nuker",
       "Disabler",
       "Durable",
-      "Initiator"
+      "Initiator",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/ogre_magi.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/ogre_magi.png?",
@@ -3347,7 +3349,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "85": {
     "id": 85,
@@ -3359,7 +3361,7 @@ export const Heroes: Record<
       "Support",
       "Durable",
       "Disabler",
-      "Nuker"
+      "Nuker",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/undying.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/undying.png?",
@@ -3387,7 +3389,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "86": {
     "id": 86,
@@ -3398,7 +3400,7 @@ export const Heroes: Record<
     "roles": [
       "Support",
       "Disabler",
-      "Nuker"
+      "Nuker",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/rubick.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/rubick.png?",
@@ -3426,7 +3428,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "87": {
     "id": 87,
@@ -3438,7 +3440,7 @@ export const Heroes: Record<
       "Support",
       "Disabler",
       "Nuker",
-      "Initiator"
+      "Initiator",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/disruptor.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/disruptor.png?",
@@ -3466,7 +3468,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "88": {
     "id": 88,
@@ -3478,7 +3480,7 @@ export const Heroes: Record<
       "Disabler",
       "Nuker",
       "Initiator",
-      "Escape"
+      "Escape",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/nyx_assassin.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/nyx_assassin.png?",
@@ -3506,7 +3508,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 6,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "89": {
     "id": 89,
@@ -3520,7 +3522,7 @@ export const Heroes: Record<
       "Pusher",
       "Disabler",
       "Initiator",
-      "Escape"
+      "Escape",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/naga_siren.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/naga_siren.png?",
@@ -3548,7 +3550,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 0,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "90": {
     "id": 90,
@@ -3559,10 +3561,11 @@ export const Heroes: Record<
     "roles": [
       "Support",
       "Nuker",
-      "Disabler"
+      "Disabler",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/keeper_of_the_light.png?",
-    "icon": "/apps/dota2/images/dota_react/heroes/icons/keeper_of_the_light.png?",
+    "icon":
+      "/apps/dota2/images/dota_react/heroes/icons/keeper_of_the_light.png?",
     "base_health": 120,
     "base_health_regen": 0.25,
     "base_mana": 75,
@@ -3587,7 +3590,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "91": {
     "id": 91,
@@ -3598,7 +3601,7 @@ export const Heroes: Record<
     "roles": [
       "Support",
       "Escape",
-      "Nuker"
+      "Nuker",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/wisp.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/wisp.png?",
@@ -3626,7 +3629,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 0,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "92": {
     "id": 92,
@@ -3639,7 +3642,7 @@ export const Heroes: Record<
       "Nuker",
       "Durable",
       "Disabler",
-      "Pusher"
+      "Pusher",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/visage.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/visage.png?",
@@ -3667,7 +3670,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "93": {
     "id": 93,
@@ -3679,7 +3682,7 @@ export const Heroes: Record<
       "Carry",
       "Escape",
       "Disabler",
-      "Nuker"
+      "Nuker",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/slark.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/slark.png?",
@@ -3707,7 +3710,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 1800
+    "night_vision": 1800,
   },
   "94": {
     "id": 94,
@@ -3718,7 +3721,7 @@ export const Heroes: Record<
     "roles": [
       "Carry",
       "Disabler",
-      "Durable"
+      "Durable",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/medusa.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/medusa.png?",
@@ -3746,7 +3749,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 0,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "95": {
     "id": 95,
@@ -3758,7 +3761,7 @@ export const Heroes: Record<
       "Carry",
       "Pusher",
       "Disabler",
-      "Durable"
+      "Durable",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/troll_warlord.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/troll_warlord.png?",
@@ -3786,7 +3789,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "96": {
     "id": 96,
@@ -3799,7 +3802,7 @@ export const Heroes: Record<
       "Initiator",
       "Disabler",
       "Nuker",
-      "Escape"
+      "Escape",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/centaur.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/centaur.png?",
@@ -3827,7 +3830,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 4,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "97": {
     "id": 97,
@@ -3839,7 +3842,7 @@ export const Heroes: Record<
       "Initiator",
       "Disabler",
       "Nuker",
-      "Escape"
+      "Escape",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/magnataur.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/magnataur.png?",
@@ -3867,7 +3870,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 4,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "98": {
     "id": 98,
@@ -3878,7 +3881,7 @@ export const Heroes: Record<
     "roles": [
       "Nuker",
       "Durable",
-      "Escape"
+      "Escape",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/shredder.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/shredder.png?",
@@ -3906,7 +3909,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "99": {
     "id": 99,
@@ -3918,7 +3921,7 @@ export const Heroes: Record<
       "Carry",
       "Durable",
       "Initiator",
-      "Nuker"
+      "Nuker",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/bristleback.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/bristleback.png?",
@@ -3946,7 +3949,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "100": {
     "id": 100,
@@ -3957,7 +3960,7 @@ export const Heroes: Record<
     "roles": [
       "Initiator",
       "Disabler",
-      "Nuker"
+      "Nuker",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/tusk.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/tusk.png?",
@@ -3985,7 +3988,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "101": {
     "id": 101,
@@ -3996,7 +3999,7 @@ export const Heroes: Record<
     "roles": [
       "Support",
       "Nuker",
-      "Disabler"
+      "Disabler",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/skywrath_mage.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/skywrath_mage.png?",
@@ -4024,7 +4027,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "102": {
     "id": 102,
@@ -4035,7 +4038,7 @@ export const Heroes: Record<
     "roles": [
       "Support",
       "Carry",
-      "Durable"
+      "Durable",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/abaddon.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/abaddon.png?",
@@ -4063,7 +4066,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "103": {
     "id": 103,
@@ -4075,7 +4078,7 @@ export const Heroes: Record<
       "Initiator",
       "Disabler",
       "Nuker",
-      "Durable"
+      "Durable",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/elder_titan.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/elder_titan.png?",
@@ -4103,7 +4106,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "104": {
     "id": 104,
@@ -4116,7 +4119,7 @@ export const Heroes: Record<
       "Disabler",
       "Initiator",
       "Durable",
-      "Nuker"
+      "Nuker",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/legion_commander.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/legion_commander.png?",
@@ -4144,7 +4147,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "105": {
     "id": 105,
@@ -4154,7 +4157,7 @@ export const Heroes: Record<
     "attack_type": "Ranged",
     "roles": [
       "Nuker",
-      "Disabler"
+      "Disabler",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/techies.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/techies.png?",
@@ -4182,7 +4185,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 6,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "106": {
     "id": 106,
@@ -4195,7 +4198,7 @@ export const Heroes: Record<
       "Escape",
       "Nuker",
       "Disabler",
-      "Initiator"
+      "Initiator",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/ember_spirit.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/ember_spirit.png?",
@@ -4223,7 +4226,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "107": {
     "id": 107,
@@ -4236,7 +4239,7 @@ export const Heroes: Record<
       "Escape",
       "Disabler",
       "Initiator",
-      "Durable"
+      "Durable",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/earth_spirit.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/earth_spirit.png?",
@@ -4264,7 +4267,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "108": {
     "id": 108,
@@ -4277,7 +4280,7 @@ export const Heroes: Record<
       "Nuker",
       "Disabler",
       "Durable",
-      "Escape"
+      "Escape",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/abyssal_underlord.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/abyssal_underlord.png?",
@@ -4305,7 +4308,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "109": {
     "id": 109,
@@ -4316,7 +4319,7 @@ export const Heroes: Record<
     "roles": [
       "Carry",
       "Pusher",
-      "Nuker"
+      "Nuker",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/terrorblade.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/terrorblade.png?",
@@ -4344,7 +4347,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "110": {
     "id": 110,
@@ -4357,7 +4360,7 @@ export const Heroes: Record<
       "Nuker",
       "Initiator",
       "Escape",
-      "Disabler"
+      "Disabler",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/phoenix.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/phoenix.png?",
@@ -4385,7 +4388,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "111": {
     "id": 111,
@@ -4397,7 +4400,7 @@ export const Heroes: Record<
       "Support",
       "Nuker",
       "Disabler",
-      "Escape"
+      "Escape",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/oracle.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/oracle.png?",
@@ -4425,7 +4428,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 0,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "112": {
     "id": 112,
@@ -4436,7 +4439,7 @@ export const Heroes: Record<
     "roles": [
       "Support",
       "Disabler",
-      "Nuker"
+      "Nuker",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/winter_wyvern.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/winter_wyvern.png?",
@@ -4464,7 +4467,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "113": {
     "id": 113,
@@ -4475,7 +4478,7 @@ export const Heroes: Record<
     "roles": [
       "Carry",
       "Escape",
-      "Nuker"
+      "Nuker",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/arc_warden.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/arc_warden.png?",
@@ -4503,7 +4506,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "114": {
     "id": 114,
@@ -4515,7 +4518,7 @@ export const Heroes: Record<
       "Carry",
       "Escape",
       "Disabler",
-      "Initiator"
+      "Initiator",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/monkey_king.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/monkey_king.png?",
@@ -4543,7 +4546,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "119": {
     "id": 119,
@@ -4555,7 +4558,7 @@ export const Heroes: Record<
       "Support",
       "Nuker",
       "Disabler",
-      "Escape"
+      "Escape",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/dark_willow.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/dark_willow.png?",
@@ -4583,7 +4586,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "120": {
     "id": 120,
@@ -4597,7 +4600,7 @@ export const Heroes: Record<
       "Disabler",
       "Durable",
       "Escape",
-      "Initiator"
+      "Initiator",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/pangolier.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/pangolier.png?",
@@ -4625,7 +4628,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "121": {
     "id": 121,
@@ -4637,7 +4640,7 @@ export const Heroes: Record<
       "Support",
       "Nuker",
       "Disabler",
-      "Escape"
+      "Escape",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/grimstroke.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/grimstroke.png?",
@@ -4665,7 +4668,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 0,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "123": {
     "id": 123,
@@ -4677,7 +4680,7 @@ export const Heroes: Record<
       "Support",
       "Nuker",
       "Escape",
-      "Disabler"
+      "Disabler",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/hoodwink.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/hoodwink.png?",
@@ -4705,7 +4708,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 4,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "126": {
     "id": 126,
@@ -4717,7 +4720,7 @@ export const Heroes: Record<
       "Carry",
       "Escape",
       "Nuker",
-      "Disabler"
+      "Disabler",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/void_spirit.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/void_spirit.png?",
@@ -4745,7 +4748,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "128": {
     "id": 128,
@@ -4757,7 +4760,7 @@ export const Heroes: Record<
       "Support",
       "Nuker",
       "Disabler",
-      "Escape"
+      "Escape",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/snapfire.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/snapfire.png?",
@@ -4785,7 +4788,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "129": {
     "id": 129,
@@ -4797,7 +4800,7 @@ export const Heroes: Record<
       "Carry",
       "Initiator",
       "Disabler",
-      "Durable"
+      "Durable",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/mars.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/mars.png?",
@@ -4825,7 +4828,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "135": {
     "id": 135,
@@ -4835,7 +4838,7 @@ export const Heroes: Record<
     "attack_type": "Melee",
     "roles": [
       "Carry",
-      "Durable"
+      "Durable",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/dawnbreaker.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/dawnbreaker.png?",
@@ -4863,7 +4866,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "136": {
     "id": 136,
@@ -4876,7 +4879,7 @@ export const Heroes: Record<
       "Carry",
       "Initiator",
       "Disabler",
-      "Escape"
+      "Escape",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/marci.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/marci.png?",
@@ -4904,7 +4907,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "137": {
     "id": 137,
@@ -4915,7 +4918,7 @@ export const Heroes: Record<
     "roles": [
       "Initiator",
       "Durable",
-      "Disabler"
+      "Disabler",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/primal_beast.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/primal_beast.png?",
@@ -4943,7 +4946,7 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
+    "night_vision": 800,
   },
   "138": {
     "id": 138,
@@ -4954,7 +4957,7 @@ export const Heroes: Record<
     "roles": [
       "Carry",
       "Nuker",
-      "Disabler"
+      "Disabler",
     ],
     "img": "/apps/dota2/images/dota_react/heroes/muerta.png?",
     "icon": "/apps/dota2/images/dota_react/heroes/icons/muerta.png?",
@@ -4982,6 +4985,6 @@ export const Heroes: Record<
     "cm_enabled": true,
     "legs": 2,
     "day_vision": 1800,
-    "night_vision": 800
-  }
-}
+    "night_vision": 800,
+  },
+};

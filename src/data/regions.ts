@@ -20,5 +20,5 @@ export const Regions = {
   "20": "PW TELECOM WUHAN",
   "25": "PW UNICOM TIANJIN",
   "37": "TAIWAN",
-  "38": "ARGENTINA"
-}
+  "38": "ARGENTINA",
+};

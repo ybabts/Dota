@@ -481,5 +481,5 @@ export const ItemIDs: Record<number, string> = {
   "4208": "recipe_greater_famango",
   "4300": "ofrenda",
   "4301": "ofrenda_shovel",
-  "4302": "ofrenda_pledge"
-}
+  "4302": "ofrenda_pledge",
+};

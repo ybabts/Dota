@@ -13,5 +13,5 @@ export const PermanentBuffs: Record<PermanentBuff, string> = {
   "10": "bounty_hunter_jinada",
   "12": "aghanims_shard",
   "13": "axe_culling_blade",
-  "14": "necrolyte_reapers_scythe"
-}
+  "14": "necrolyte_reapers_scythe",
+};

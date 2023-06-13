@@ -8,5 +8,5 @@ export const PlayerColors: Record<number, string> = {
   "129": "#A1B447",
   "130": "#65D9F7",
   "131": "#008321",
-  "132": "#A46900"
-}
+  "132": "#A46900",
+};

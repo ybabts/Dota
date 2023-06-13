@@ -28,5 +28,5 @@ export const XPLevels: number[] = [
   43400,
   49400,
   56400,
-  63900
-]
+  63900,
+];
