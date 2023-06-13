@@ -1,16 +1,18 @@
 import { Gamemode, LobbyType } from "../enums/mod.ts";
 import { HeroID } from "../types/mod.ts";
 import { apiKey, endpoint } from "./mod.ts";
-import { StatusCodes } from "https://deno.land/x/https_status_codes@v1.2.0/mod.ts"
+import { StatusCodes } from "https://deno.land/x/https_status_codes@v1.2.0/mod.ts";
 
 export async function getTopLiveGame(partner: number | string) {
-  const url = new URL(endpoint + 'IDOTA2Match_570/GetTopLiveGame/v1');
-  url.searchParams.set('partner', partner.toString());
-  if(apiKey === null) throw new Error('cannot make api call: unauthorized');
-  url.searchParams.set('key', apiKey);
+  const url = new URL(endpoint + "IDOTA2Match_570/GetTopLiveGame/v1");
+  url.searchParams.set("partner", partner.toString());
+  if (apiKey === null) throw new Error("cannot make api call: unauthorized");
+  url.searchParams.set("key", apiKey);
   const req = await fetch(url);
-  if(req.status !== StatusCodes.OK) throw new Error(await req.text());
-  const res: getTopLiveGame_Result = await req.json().catch(e => { throw e; });
+  if (req.status !== StatusCodes.OK) throw new Error(await req.text());
+  const res: getTopLiveGame_Result = await req.json().catch((e) => {
+    throw e;
+  });
   return res;
 }
 

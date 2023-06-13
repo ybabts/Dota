@@ -1,60 +1,73 @@
-import { apiKey, endpoint } from './mod.ts';
-import { StatusCodes, normalizeSteamID, SteamID } from '../deps.ts';
+import { apiKey, endpoint } from "./mod.ts";
+import { normalizeSteamID, StatusCodes, SteamID } from "../deps.ts";
 import { Gamemode, LobbyType, Skill } from "../enums/mod.ts";
 import { HeroID } from "../types/mod.ts";
 
 export interface getMatchHistory_Parameters {
   /** A list of hero IDs can be found via the GetHeroes method. */
-  hero_id: number,
-  game_mode: Gamemode,
+  hero_id: number;
+  game_mode: Gamemode;
   /** Skill bracket for the matches (Ignored if an account ID is specified). */
-  skill: Skill,
+  skill: Skill;
   /** Minimum amount of players in a match for the match to be returned. */
-  min_players: number,
+  min_players: number;
   /** 32-bit or 64-bit account ID. */
-  account_id: SteamID,
+  account_id: SteamID;
   /** Only return matches from this league. A list of league IDs can be found via the GetLeagueListing method. */
-  league_id: number,
+  league_id: number;
   /** Start searching for matches equal to or older than this match ID. */
-  start_at_match_id: number,
+  start_at_match_id: number;
   /** Amount of matches to include in results (default: 25). */
-  matches_requested: number,
+  matches_requested: number;
   /** Whether to limit results to tournament matches. (0 = false, 1 = true) */
-  tournament_games_only: boolean
+  tournament_games_only: boolean;
 }
 
-export async function getMatchHistory(options?: Partial<getMatchHistory_Parameters>) {
-  const url = new URL(endpoint + 'IDOTA2Match_570/GetMatchHistory/v1');
-  if(options !== undefined)
-    for(const [key, value] of Object.entries(options))
-      url.searchParams.set(key, value.toString() === 'account_id' ? normalizeSteamID(value.toString()).id32 : value.toString());
-  if(apiKey === null) throw new Error('cannot make api call: unauthorized');
-  url.searchParams.set('key', apiKey);
+export async function getMatchHistory(
+  options?: Partial<getMatchHistory_Parameters>,
+) {
+  const url = new URL(endpoint + "IDOTA2Match_570/GetMatchHistory/v1");
+  if (options !== undefined) {
+    for (const [key, value] of Object.entries(options)) {
+      url.searchParams.set(
+        key,
+        value.toString() === "account_id"
+          ? normalizeSteamID(value.toString()).id32
+          : value.toString(),
+      );
+    }
+  }
+  if (apiKey === null) throw new Error("cannot make api call: unauthorized");
+  url.searchParams.set("key", apiKey);
   const req = await fetch(url);
-  if(req.status !== StatusCodes.OK) throw new Error(await req.text());
-  const res: { result: getMatchHistory_Result } = await req.json().catch(e => { throw e; });
+  if (req.status !== StatusCodes.OK) throw new Error(await req.text());
+  const res: { result: getMatchHistory_Result } = await req.json().catch(
+    (e) => {
+      throw e;
+    },
+  );
   return res.result;
 }
 
 export interface getMatchHistory_Result {
-  status: getMatchHistory_Status,
+  status: getMatchHistory_Status;
   /** A message explaining the status, should status not be 1. */
-  statusDetail: string,
+  statusDetail: string;
   /** The number of matches in this response. */
-  num_results: number,
+  num_results: number;
   /** The total number of matches for the query. */
-  total_results: number,
+  total_results: number;
   /** The number of matches left for this query. */
   results_remaining: number;
   /** A list of matches. */
-  matches: getMatchHistory_Match[]
+  matches: getMatchHistory_Match[];
 }
 
 export enum getMatchHistory_Status {
   /** Success */
   Success = 1,
   /** Cannot get match history for a user that hasn't allowed it. */
-  Private = 15
+  Private = 15,
 }
 
 export interface getMatchHistory_Match {
@@ -68,7 +81,7 @@ export interface getMatchHistory_Match {
   radiant_team_id: number;
   dire_team_id: number;
   /** The list of players within the match. */
-  players: getMatchHistory_Player[]
+  players: getMatchHistory_Player[];
 }
 
 export interface getMatchHistory_Player {

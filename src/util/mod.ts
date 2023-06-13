@@ -1,2 +1,2 @@
-export * from './unions.ts';
-export * from './substring.ts';
+export * from "./unions.ts";
+export * from "./substring.ts";

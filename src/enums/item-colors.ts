@@ -5,5 +5,5 @@ export enum ItemColors {
   Consumable = "#1D80E7",
   Common = "#2BAB01",
   Epic = "#B812F9",
-  Component = "#FFFFFF"
+  Component = "#FFFFFF",
 }

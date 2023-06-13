@@ -2431,5 +2431,5 @@ export enum Ability {
   roshan_halloween_burn = 9999,
   roshan_halloween_levels = 10000,
   roshan_halloween_summon = 10001,
-  roshan_halloween_fireball = 10002
+  roshan_halloween_fireball = 10002,
 }

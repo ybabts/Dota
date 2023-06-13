@@ -1,26 +1,28 @@
 import { Gamemode, LobbyType } from "../enums/mod.ts";
 import { AbilityID, HeroID, ItemID } from "../types/mod.ts";
 import { apiKey, endpoint } from "./mod.ts";
-import { StatusCodes } from "https://deno.land/x/https_status_codes@v1.2.0/mod.ts"
+import { StatusCodes } from "https://deno.land/x/https_status_codes@v1.2.0/mod.ts";
 
 export async function getRealtimeStats(server_steam_id: string) {
-  const url = new URL(endpoint + 'IDOTA2MatchStats_570/GetRealtimeStats/v1');
-  url.searchParams.set('server_steam_id', server_steam_id);
-  if(apiKey === null) throw new Error('cannot make api call: unauthorized');
-  url.searchParams.set('key', apiKey);
+  const url = new URL(endpoint + "IDOTA2MatchStats_570/GetRealtimeStats/v1");
+  url.searchParams.set("server_steam_id", server_steam_id);
+  if (apiKey === null) throw new Error("cannot make api call: unauthorized");
+  url.searchParams.set("key", apiKey);
   const req = await fetch(url);
-  if(req.status !== StatusCodes.OK) throw new Error(await req.text());
-  const res: getRealtimeStats_Result = await req.json().catch(e => { throw e; });
+  if (req.status !== StatusCodes.OK) throw new Error(await req.text());
+  const res: getRealtimeStats_Result = await req.json().catch((e) => {
+    throw e;
+  });
   return res;
 }
 
 export interface getRealtimeStats_Result {
-  match: getRealtimeStats_Match,
-  teams: getRealtimeStats_Team[],
-  buildings: getRealtimeStats_Building[],
+  match: getRealtimeStats_Match;
+  teams: getRealtimeStats_Team[];
+  buildings: getRealtimeStats_Building[];
   graph_data: {
-    graph_gold: number[]
-  }
+    graph_gold: number[];
+  };
 }
 
 export interface getRealtimeStats_Match {
@@ -64,7 +66,7 @@ export interface getRealtimeStats_Team {
   /** The URL of the team's logo. */
   team_logo_url: string;
   /** An array of player objects for the team. */
-  players: GetRealtimeStats_Player[]
+  players: GetRealtimeStats_Player[];
 }
 
 export interface GetRealtimeStats_Player {

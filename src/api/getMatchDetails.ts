@@ -4,13 +4,17 @@ import { Engine, Gamemode, LeaverStatus, LobbyType } from "../enums/mod.ts";
 import { HeroID, ItemID } from "../types/mod.ts";
 
 export async function getMatchDetails(match_id: number | string) {
-  const url = new URL(endpoint + 'IDOTA2Match_570/GetMatchDetails/v1');
-  url.searchParams.set('match_id', match_id.toString());
-  if(apiKey === null) throw new Error('cannot make api call: unauthorized');
-  url.searchParams.set('key', apiKey);
+  const url = new URL(endpoint + "IDOTA2Match_570/GetMatchDetails/v1");
+  url.searchParams.set("match_id", match_id.toString());
+  if (apiKey === null) throw new Error("cannot make api call: unauthorized");
+  url.searchParams.set("key", apiKey);
   const req = await fetch(url);
-  if(req.status !== StatusCodes.OK) throw new Error(await req.text());
-  const res: { result: getMatchDetails_Result } = await req.json().catch(e => { throw e; });
+  if (req.status !== StatusCodes.OK) throw new Error(await req.text());
+  const res: { result: getMatchDetails_Result } = await req.json().catch(
+    (e) => {
+      throw e;
+    },
+  );
   return res.result;
 }
 
@@ -104,7 +108,7 @@ export interface getMatchDetails_Result {
    * 0 - Source 1
    * 1 - Source 2
    */
-  engine: Engine,
+  engine: Engine;
   /** Radiant kills */
   radiant_score: number;
   /** Dire kills */

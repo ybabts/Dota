@@ -24,5 +24,5 @@ export enum Gamemode {
   AllDraft = 22,
   Turbo = 23,
   Mutation = 24,
-  CoachesChallenge = 25
+  CoachesChallenge = 25,
 }
