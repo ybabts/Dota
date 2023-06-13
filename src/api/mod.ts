@@ -23,3 +23,4 @@ export function setEndpoint(url: string): void {
 // TODO(ybabts): implement https://store.steampowered.com/events/ajaxgetpartnereventspageable/?clan_accountid=0&appid=570&offset=0&count=100&l=english&origin=https:%2F%2Fwww.dota2.com
 // TODO(ybabts): change to Errors as Values
 // TODO(ybabts): refactor naming scheme
+// TOOD(ybabts): search for more web api endpoints to implement
