@@ -1,6 +1,6 @@
-export const Divisions = [
-  "americas",
-  "europe",
-  "se_asia",
-  "china",
-] as const;
+export const Divisions = {
+  "americas": "Americas",
+  "europe": "Europe",
+  "se_asia": "Southeast Asia",
+  "china": "China",
+} as const;
