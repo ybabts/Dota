@@ -3,6 +3,7 @@ export * from "./getMatchHistory.ts";
 export * from "./getRealtimeStats.ts";
 export * from "./getTopLiveGame.ts";
 export * from "./getLeaderboard.ts";
+export * from "./getPatchnotesList.ts";
 
 type apiKey = string | null;
 
